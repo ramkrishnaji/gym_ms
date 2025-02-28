@@ -1,10 +1,10 @@
-# gym-management-system
+# Gym-management-system
 
 How to run the Gym Management System: 
 
 Step 1: Download the zip file.
 
-Step 2: Extract the file and copy the dsn_gym folder.
+Step 2: Extract the file and copy the gym_ms folder.
 
 Step 3: Paste inside root directory (for xampp, xampp/htdocs)
 
