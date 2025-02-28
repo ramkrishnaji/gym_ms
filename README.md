@@ -1,26 +1,54 @@
 # Gym-management-system
 
-How to run the Gym Management System: 
+## 📌 Overview  
+The **Gym Management System** is a web-based application that allows users to sign up, log in, and manage their gym memberships efficiently. Users can select a suitable gym plan, track their booking history, and update their account details. This project was developed as part of my learning journey in the third year of my **B.Tech in Computer Science**.  
 
-Step 1: Download the zip file.
+## 🚀 Features  
+- **User Authentication**: Sign up, log in, and change passwords securely.  
+- **Gym Plan Selection**: Users can choose from different membership plans based on their preferences.  
+- **Booking History**: View and track past gym bookings.  
+- **Informational Pages**: Home and About pages providing details about the gym.  
 
-Step 2: Extract the file and copy the gym_ms folder.
+## 🛠️ Tech Stack  
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: PHP  
+- **Database**: MySQL  
+- **Other**: Hack (used for specific backend optimizations)
 
-Step 3: Paste inside root directory (for xampp, xampp/htdocs)
+## ⚙️ How to Run the Gym Management System  
 
-Step 4: Open PHPMyAdmin (http://localhost/phpmyadmin)
+### 1️⃣ Download and Extract  
+- **Download the ZIP file** from the GitHub repository.  
+- **Extract the file** and copy the `gym_ms` folder.  
 
-Step 5: Create a database with the name "gymdb"
+### 2️⃣ Set Up the Project  
+- **Paste the `gym_ms` folder** inside the root directory:  
+  - For **XAMPP**: `xampp/htdocs`  
+  - For **WAMP**: `wamp/www`  
 
-Step 6: Import gymdb.sql file
+### 3️⃣ Set Up the Database  
+- Open **PHPMyAdmin** in your browser:  
+  🔗 [http://localhost/phpmyadmin](http://localhost/phpmyadmin)  
+- **Create a new database** named **`gymdb`**.  
+- **Import the `gymdb.sql` file** into the `gymdb` database.  
 
-Step 7: Run the script http://localhost/dsn_gym
+### 4️⃣ Run the Project  
+- Open your browser and go to:  
+  🔗 [http://localhost/dsn_gym](http://localhost/dsn_gym)  
 
-Admin Credential
-Username: admin@gmail.com
-Password: admin@123
+## 🔑 Admin Credentials  
+- **Username**: `admin@gmail.com`  
+- **Password**: `admin@123`  
 
-For user: you can register a new user and login. 
+## 👥 User Access  
+- Users can **register a new account** and log in to access their dashboard.  
+
+## 📌 Future Improvements   
+- Integrating an **online payment system** for memberships.  
+- Implementing **email notifications** for booking confirmations.  
+
+Feel free to check out the project and give feedback!  
+📧 **Contact:** ramkrishnaji03@gmail.com
 
 Screenshots: 
 ![ss1](https://github.com/user-attachments/assets/e5f7ac47-7527-4113-8fc8-24117daee70c)
