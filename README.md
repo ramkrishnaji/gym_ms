@@ -24,8 +24,4 @@ Password: admin@123
 For user: you can register a new user and login. 
 
 Screenshots: 
-1.   https://drive.google.com/file/d/1q4Ng5KbpKTkX1_fVgd9p8KoTL3KhNPLA/view?usp=sharing
-2.   https://drive.google.com/file/d/1QUOPjlWU47frHsS5Q44utIoeLZixZmPr/view?usp=sharing
-3.   https://drive.google.com/file/d/1KQZd7OtQHHm1N4NQ7StQhF3rnc87dPJS/view?usp=sharing
-4.   https://drive.google.com/file/d/1FySdQauT8BNGovT35GiyBDGGBoEFq6kw/view?usp=sharing
-5.   https://drive.google.com/file/d/12lnNdSr9KR6lQNA2flkwenp49Myawzbf/view?usp=sharing
+
